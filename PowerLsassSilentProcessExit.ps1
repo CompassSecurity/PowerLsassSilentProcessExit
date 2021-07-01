@@ -19,7 +19,7 @@
     1 - Call CreateRemoteThread on RtlSilentProcessExit on LSASS (Note, that this doesnt work in the current version...)
 
 .PARAMETER DumpPath
-    Path wherer the dumpfile shall be stored
+    Path where the dumpfile shall be stored
 
 .EXAMPLE
     PowerLsassSilentProcessExit.ps1 -DumpMode 0 -DumpPath C:\temp
