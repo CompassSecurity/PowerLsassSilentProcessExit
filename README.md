@@ -30,7 +30,7 @@ The powershell.exe process gets dumped along with lsass using the DumpMode 0, he
 
 ## Monitoring Guidance
 
-The (original article)[https://www.deepinstinct.com/2021/02/16/lsass-memory-dumps-are-stealthier-than-ever-before-part-2/] provides some pointers on how to detect this technique. From our point of view, the following two techniques are best to detect our script being run:
+The [original article](https://www.deepinstinct.com/2021/02/16/lsass-memory-dumps-are-stealthier-than-ever-before-part-2/) provides some pointers on how to detect this technique. From our point of view, the following two techniques are best to detect our script being run:
 
 ### Monitoring Registry
 
