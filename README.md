@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer actively maintained and has been archived for reference purposes only.
+
 # PowerLsassSilentProcessExit
 
 PowerShell script to dump lsass.exe process memory to disk for credentials extraction via silent process exit mechanism.
